@@ -15,5 +15,6 @@ author = "Guangyuan Guo"
 
 ### Employment
 
+- 2023-Present, Lecturer, Shanghai University of Finance and Economics
 - 2020-2022, Postdoctoral Fellow, Fudan University
 - 2017-2019, Data Analyst, China Continent Insurance
