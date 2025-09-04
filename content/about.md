@@ -15,6 +15,19 @@ author = "Guangyuan Guo"
 
 ### Employment
 
-- 2023-Present, Lecturer, Shanghai University of Finance and Economics
+- 2025-now   , Associate Professor, Shanghai University of Finance and Economics
+- 2023-2024, Lecturer, Shanghai University of Finance and Economics
 - 2020-2022, Postdoctoral Fellow, Fudan University
 - 2017-2019, Data Analyst, China Continent Insurance
+
+### Teaching
+
+- Undergraduate
+  - Econometrics
+  - Python Programming
+  - Python for Quantitative Finance
+
+- Graduate
+  - Econometrics
+  - Quantitative Finance
+  - Python for Economic Data Analysis
